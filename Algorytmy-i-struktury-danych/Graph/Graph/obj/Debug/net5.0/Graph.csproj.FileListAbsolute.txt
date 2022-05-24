@@ -1,0 +1,16 @@
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\bin\Debug\net5.0\Graph.exe
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\bin\Debug\net5.0\Graph.deps.json
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\bin\Debug\net5.0\Graph.runtimeconfig.json
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\bin\Debug\net5.0\Graph.runtimeconfig.dev.json
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\bin\Debug\net5.0\Graph.dll
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\bin\Debug\net5.0\ref\Graph.dll
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\bin\Debug\net5.0\Graph.pdb
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\obj\Debug\net5.0\Graph.csproj.AssemblyReference.cache
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\obj\Debug\net5.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\obj\Debug\net5.0\Graph.AssemblyInfoInputs.cache
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\obj\Debug\net5.0\Graph.AssemblyInfo.cs
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\obj\Debug\net5.0\Graph.csproj.CoreCompileInputs.cache
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\obj\Debug\net5.0\Graph.dll
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\obj\Debug\net5.0\ref\Graph.dll
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\obj\Debug\net5.0\Graph.pdb
+D:\Users\Bartosz.Adamek\Desktop\Alg\Graph\Graph\obj\Debug\net5.0\Graph.genruntimeconfig.cache
