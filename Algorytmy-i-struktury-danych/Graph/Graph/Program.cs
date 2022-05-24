@@ -44,12 +44,12 @@ namespace Graph
         public void Traversal(int start, Action<int> action)
         {
 
-            //uzu
+            /*                                                                                         uzu
             foreach (var item in collection)
             {
                 //uzu asdsadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdsaddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd 
             }
-
+            */
 
         }
 
@@ -89,12 +89,14 @@ namespace Graph
         {
             if (!_edges.ContainsKey(source))
             {
-                _edges.Add();
-                //uzu asdsadddddddddddddddddddddddddddddddddddddddddddddddddddddddddddasdsaddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
-
+                _edges.Add(source, new HashSet<Edge>()) ;
+                
+            }
+            if (!_edges.ContainsKey(target))
+            {
+                _edges[source].Add(new Edge() { Target = target, Weight = weight });
             }
             _edges[source].Add(new Edge() { Target = target, Weight = weight });
-
             return true;
         }
 
@@ -107,7 +109,7 @@ namespace Graph
         {
             
             Queue<int> q = new Queue<int>();
-            HashSet<int> visited = new HashSet<int>;
+            HashSet<int> visited = new HashSet<int>();
             q.Enqueue(start);
             while (q.Count > 0)
             {
