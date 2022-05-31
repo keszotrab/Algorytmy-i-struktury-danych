@@ -1,0 +1,16 @@
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\obj\Debug\net5.0\Lab12.csproj.AssemblyReference.cache
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\obj\Debug\net5.0\Lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\obj\Debug\net5.0\Lab12.AssemblyInfoInputs.cache
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\obj\Debug\net5.0\Lab12.AssemblyInfo.cs
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\obj\Debug\net5.0\Lab12.csproj.CoreCompileInputs.cache
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\bin\Debug\net5.0\Lab12.exe
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\bin\Debug\net5.0\Lab12.deps.json
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\bin\Debug\net5.0\Lab12.runtimeconfig.json
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\bin\Debug\net5.0\Lab12.runtimeconfig.dev.json
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\bin\Debug\net5.0\Lab12.dll
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\bin\Debug\net5.0\ref\Lab12.dll
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\bin\Debug\net5.0\Lab12.pdb
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\obj\Debug\net5.0\Lab12.dll
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\obj\Debug\net5.0\ref\Lab12.dll
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\obj\Debug\net5.0\Lab12.pdb
+D:\Users\Bartosz.Adamek\Desktop\Alg\Lab12\Lab12\obj\Debug\net5.0\Lab12.genruntimeconfig.cache
